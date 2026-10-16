@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mật Ngữ Tarot</string>
+    <string name="tarot_arcana">Tarot Arcana</string>
+    <string name="rut_bai">Xin Chào</string>
+    <string name="dai_bi_canh">✪ Mật Mã Vũ Trụ</string>
+    <string name="card_title">Mỗi lá bài ẩn chứa một thông điệp dành riêng cho bạn</string>
+    <string name="thuan_trieu">Năng Lượng</string>
+    <string name="card_sub_keywords">HY VỌNG &amp; KHAI SÁNG</string>
+    <string name="y_nghia_du_bao">Ý Nghĩa &amp; Dự Báo</string>
+    <string name="hom_nay">HÔM NAY</string>
+    <string name="card_meaning_desc">Mọi giông bão qua đi đều nhường chỗ cho sự bình yên. Hôm nay, trực giác của bạn đang ở mức cực đại — hãy tin tưởng vào linh cảm của chính mình, vì một bước ngoặt chữa lành đang chờ phía trước.</string>
+    <string name="nguyen_to">NGUYÊN TỐ</string>
+    <string name="khi">Bí mật</string>
+    <string name="cung_bao_ho">CUNG BẢO HỘ</string>
+    <string name="bao_binh">Bí mật</string>
+    <string name="nang_luong">NĂNG LƯỢNG</string>
+    <string name="percent_96">Bí mật</string>
+    <string name="rut_1_la_ngay">Vũ Trụ Nói Gì ? </string>
+    <string name="chia_se_thong_diep">Chia sẻ thông điệp</string>
+    <string name="luu_vao_nhat_ky">Lưu vào Nhật Ký</string>
+    <string name="danh_sach_the_bai">Danh Sách Thẻ Bài</string>
+</resources>
